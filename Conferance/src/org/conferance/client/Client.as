@@ -1,4 +1,4 @@
-package org.detaysoft.client 
+package org.conferance.client 
 {
 	import flash.events.Event;
 	import flash.events.MouseEvent;
@@ -19,7 +19,7 @@ package org.detaysoft.client
 	import mx.events.ResizeEvent;
 	import mx.managers.DragManager;
 	
-	import org.detaysoft.container.ContainerArea;
+	import org.conferance.container.ContainerArea;
 	  
 	public class Client
 	{
@@ -141,3 +141,4 @@ package org.detaysoft.client
 		}
 	}
 }
+ 

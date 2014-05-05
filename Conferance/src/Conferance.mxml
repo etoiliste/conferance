@@ -15,8 +15,8 @@
 			import mx.events.FlexEvent;
 			import mx.managers.DragManager;
 			
-			import org.detaysoft.client.Client;
-			import org.detaysoft.container.ContainerArea;
+			import org.conferance.client.Client;
+			import org.conferance.container.ContainerArea;
 			
 			private var userList:Array = new Array();
 			private var roomList:Array = new Array();

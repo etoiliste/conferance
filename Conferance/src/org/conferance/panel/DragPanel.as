@@ -1,4 +1,4 @@
-package org.detaysoft.panel
+package org.conferance.panel
 {
 	import flash.events.Event;
 	import flash.events.MouseEvent;

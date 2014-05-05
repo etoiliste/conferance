@@ -1,4 +1,4 @@
-package org.detaysoft.container
+package org.conferance.container
 {
 	import flash.display.Stage;
 	import flash.events.Event;
@@ -14,9 +14,9 @@ package org.detaysoft.container
 	import mx.managers.DragManager;
 	import mx.managers.ISystemManager;
 	
-	import org.detaysoft.client.Client;
-	import org.detaysoft.panel.DragPanel;
-	import org.detaysoft.panel.RubberBandComp;
+	import org.conferance.client.Client;
+	import org.conferance.panel.DragPanel;
+	import org.conferance.panel.RubberBandComp;
 
 	public class ContainerArea
 	{
